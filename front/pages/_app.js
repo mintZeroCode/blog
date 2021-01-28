@@ -2,7 +2,9 @@ import React from "react";
 import Head from "next/head";
 
 import Nav from "../components/layout/Nav";
+import Add from "../components/layout/Add";
 import Menu from "../components/layout/Menu";
+import Main from "../components/layout/Main";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -15,7 +17,9 @@ function MyApp({ Component, pageProps }) {
         <meta name="author" content="mintzerocode" />
       </Head>
       <Nav />
+
       <Menu />
+      {/* <Main /> */}
       <style jsx global>{`
         body {
           @import url("https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@500&display=swap");

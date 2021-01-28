@@ -7,8 +7,8 @@ export const Div = styled.div`
   font-size: 30px;
   color: #6495ed;
   position: fixed;
-  top: 55px;
-  left: 0;
+  top: 85px;
+  left: 0px;
   height: 100%;
   border-top: none;
   border-right: 1px solid #d9d9d9;
