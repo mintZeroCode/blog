@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "1.0.0",
   "description": "",
-  "homepage" :"https://Code.github.io/TechBlog",
+  "homepage" :"https://mintZeroCode.github.io/techBlog",
   "main": "index.js",
   "scripts": {
     "dev": "next",
